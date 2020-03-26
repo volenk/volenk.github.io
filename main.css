@@ -1,0 +1,115 @@
+body {
+	background: black;
+	font-family: Comic Sans MS;
+}
+
+h1 {
+	color:red;
+	font-size: 45px;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	font-size: 30px;
+	color: red;
+	margin: 0;
+}
+
+li {
+	font-size: 30px; 
+	text-align: center;
+	color: black;
+}
+
+p.two {
+	text-align: center;
+	font-size: 30px;
+	color: black;
+	border-bottom: 11px solid red;
+}
+
+a {
+	text-align: center;
+	margin: 0;
+}
+
+a:link {
+	color: brown;
+}
+
+
+a:hover {
+	color: red;
+}
+
+a:visited {
+	color: brown;
+}
+
+a:active {
+	color: brown;
+}
+
+img {
+	
+}
+
+img.two {
+	position: fixed;
+	bottom: 460px;
+	left: 950px;
+}
+
+p.three {
+	font-family: Comic Sans MS
+	font-size: 30px;
+	color: white;
+	position: fixed;
+	bottom: 300px;
+	background-color: black;
+}
+
+p.four {
+	font-family: Comic Sans MS
+	font-size: 30px;
+	color: white;
+	position: fixed;
+	bottom: 215px;
+	background-color: black;
+}
+
+p.five{
+	font-family: Comic Sans MS
+	font-size: 30px;
+	color: white;
+}
+
+.mainsection {
+}
+
+.box {
+	float: left;
+	width: 100px;
+	height: 80px;
+	border: 1px solid;
+	margin: 0 10px 10px 0;
+}
+
+.snimka {
+	position: relative;
+	float: left;
+	margin-left: 50px;
+}
+
+.snimkove {
+	position: relative;
+	float: right;
+	margin-right: 50px;
+}
+
+iframe {
+	position: fixed;
+	bottom: 60px;
+	left: 140px;
+}
